@@ -1,0 +1,7 @@
+G:\AI\AntigravityCode\finance-app\backend\src\main\java\com\example\finance\config\WebConfig.java
+G:\AI\AntigravityCode\finance-app\backend\src\main\java\com\example\finance\controller\TransactionController.java
+G:\AI\AntigravityCode\finance-app\backend\src\main\java\com\example\finance\FinanceApplication.java
+G:\AI\AntigravityCode\finance-app\backend\src\main\java\com\example\finance\model\Transaction.java
+G:\AI\AntigravityCode\finance-app\backend\src\main\java\com\example\finance\model\WeeklyReport.java
+G:\AI\AntigravityCode\finance-app\backend\src\main\java\com\example\finance\repository\TransactionRepository.java
+G:\AI\AntigravityCode\finance-app\backend\src\main\java\com\example\finance\service\TransactionService.java
