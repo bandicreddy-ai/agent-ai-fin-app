@@ -64,6 +64,9 @@ A full-stack personal financial application featuring a Spring Boot backend and 
 
 ---
 
-## License
+## Screenshots
 
 This project is for educational and demo purposes.
+
+<img width="959" height="504" alt="image" src="https://github.com/user-attachments/assets/b0dea44a-624a-46d9-8599-7854484d1b6e" />
+
